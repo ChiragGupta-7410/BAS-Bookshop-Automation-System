@@ -11,4 +11,5 @@
 9. BAS should allow employees to update the inventory whenever new supply arrives. 
 10. Also upon request, BAS should generate sales revenue for last 2 weeks. 
 11. The sales statistics will help the owner to know the exact business done over any period of time and also to determine inventory level required for various books. 
-12. The inventory level required for a book is equal to the number of copies of the book sold over a period of two weeks multiplied by the average number of days it takes to procure the book from its publisher. Every day the book shop owner would give a command for the BAS to print the books which have fallen below the threshold and the number of copies to be procured along with the full address of the publisher.
+12. The inventory level required for a book is equal to the number of copies of the book sold over a period of two weeks multiplied by 2. 
+13. The book shop owner would give a command for the BAS to print the books which have fallen below the threshold.
