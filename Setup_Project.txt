@@ -1,0 +1,16 @@
+Steps
+1. Install mysql server, mysql shell, mysql workbench.
+2. change password in the jupyter notebook file to that of the root user.
+3. Import Data from "BASdump.sql".
+4. Install all required Packages and Modules
+5. Run the Program.
+
+Staff Details
++--------+--------------+------+---------------+---------------+
+| emp_id | username     | age  | user_password | Employee_Type |
++--------+--------------+------+---------------+---------------+
+|      1 | Chirag0297   |   21 | Chirag0297    | Manager       |
+|      2 | Chirag0296   |   20 | Chirag0296    | Employee      |
+|      3 | Srinivas0299 |   21 | Srinivas0299  | Sales Clerk   |
+|      4 | Keshav0300   |   21 | Keshav0300    | Owner         |
++--------+--------------+------+---------------+---------------+

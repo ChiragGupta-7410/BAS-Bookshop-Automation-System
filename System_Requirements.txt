@@ -1,0 +1,13 @@
+Software Requirements
+
+	Python 3.9.13
+	mysql 8.0.32
+	jupyter notebook 6.4.12
+
+Packages/Modules Requirements
+	datetime 
+	tkinter
+	PIL
+	time
+	mysql 0.0.3
+	mysql.connector
