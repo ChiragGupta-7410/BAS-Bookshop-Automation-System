@@ -1,5 +1,8 @@
 # BAS-Bookshop-Automation-System
+## Description
+In this project, we will create a Book Automation System using Jupyter Notebook for data manipulation, MySQL for database management, and Tkinter for building a graphical user interface (GUI). The system will allow users to add, search, update, and delete book records in a database through a user-friendly GUI created using Tkinter.
 
+## Feature
 1. BAS should help the customers query whether a book is in stock. 
 2. The users can query the availability of a book either by using the book title or by using the name of the author. 
 3. If the book is not currently being sold by the book-shop, then the customer is asked to enter full details of the book for procurement of the book in future.
